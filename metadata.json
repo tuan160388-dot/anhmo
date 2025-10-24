@@ -1,0 +1,5 @@
+{
+  "name": "Image Watermark Pro",
+  "description": "An application to easily add customizable watermarks to your images. Upload an image, customize the watermark text, font size, color, opacity, and position, then download your newly protected image.",
+  "requestFramePermissions": []
+}
